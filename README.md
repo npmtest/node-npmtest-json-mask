@@ -1,4 +1,7 @@
-# test coverage for  [json-mask (v0.3.8)](https://github.com/nemtsov/json-mask#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-json-mask.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-mask) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-mask.svg)](https://travis-ci.org/npmtest/node-npmtest-json-mask)
+# npmtest-json-mask
+
+#### test coverage for  [json-mask (v0.3.8)](https://github.com/nemtsov/json-mask#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-json-mask.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-mask) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-mask.svg)](https://travis-ci.org/npmtest/node-npmtest-json-mask)
+
 #### Tiny language and engine for selecting specific parts of a JS object, hiding the rest.
 
 [![NPM](https://nodei.co/npm/json-mask.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/json-mask)

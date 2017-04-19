@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [json-mask (v0.3.8)](https://github.com/nemtsov/json-mask#readme) [![npm package](https://img.shields.io/npm/v/npmtest-json-mask.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-mask) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-mask.svg)](https://travis-ci.org/npmtest/node-npmtest-json-mask)",
+    "description": "#### test coverage for  [json-mask (v0.3.8)](https://github.com/nemtsov/json-mask#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-json-mask.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-mask) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-mask.svg)](https://travis-ci.org/npmtest/node-npmtest-json-mask)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "json-mask": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
