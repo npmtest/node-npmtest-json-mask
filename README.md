@@ -1,6 +1,6 @@
 # npmtest-json-mask
 
-#### test coverage for  [json-mask (v0.3.8)](https://github.com/nemtsov/json-mask#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-json-mask.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-mask) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-mask.svg)](https://travis-ci.org/npmtest/node-npmtest-json-mask)
+#### basic test coverage for  [json-mask (v0.3.8)](https://github.com/nemtsov/json-mask#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-json-mask.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-mask) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-mask.svg)](https://travis-ci.org/npmtest/node-npmtest-json-mask)
 
 #### Tiny language and engine for selecting specific parts of a JS object, hiding the rest.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-json-mask/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-json-mask/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-json-mask/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-json-mask/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-json-mask/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-json-mask/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-json-mask/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-json-mask/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-json-mask/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-json-mask/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-json-mask/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-json-mask/build/coverage.html/index.html)
 
@@ -106,7 +106,8 @@
         "harness": "mocha",
         "files": "test/*.js"
     },
-    "version": "0.3.8"
+    "version": "0.3.8",
+    "bin": {}
 }
 ```
 
